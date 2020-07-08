@@ -4,7 +4,7 @@ Personal access tokens:
 已安装git version 2.24.3 (Apple Git-128)
 git config --list查看配置的username，email，buffer  按Q退出
 
-git config --global user.name "dirk-chou"
+git config --global user.name "pairusuo"
 git config --global user.email "dirkchou@icloud.com"
 配置大小写敏感
 git config --global core.ignorecase false
