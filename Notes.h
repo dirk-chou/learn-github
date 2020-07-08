@@ -1,10 +1,10 @@
 
-GitHub（dirkchou@icloud.com  Dirk213@312Chou）
-Personal access tokens:62e2c905af705a285f30ffe2cfa3e53f8d83c4e3
+GitHub（apple ID 超级密码）
+Personal access tokens:
 已安装git version 2.24.3 (Apple Git-128)
 git config --list查看配置的username，email，buffer  按Q退出
 
-git config --global user.name "dirkchou"
+git config --global user.name "dirk-chou"
 git config --global user.email "dirkchou@icloud.com"
 配置大小写敏感
 git config --global core.ignorecase false
