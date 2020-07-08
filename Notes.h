@@ -17,4 +17,4 @@ ssh-keygen -t rsa -C "dirkchou@icloud.com"
 修改代码，cd 到工程目录
 git add . (当前目录)
 git commit -m "说明文字"
-git push(会要求输入git登录名密码)
+git push(第一次会要求输入git登录名密码)
